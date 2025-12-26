@@ -34,8 +34,9 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Aditya Shirsatrao
 - **GitHub:** https://github.com/adityashirsatrao007
-- **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story ;)
+- **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story.
 
-- **Name:** Hardik Singh Rana
-- **GitHub:** https://github.com/hardik-rana02
-- **About:** Student at IIITA. Trying to learn new things in opencode.
+- **Name:** Gaurav Prajapati
+- **GitHub:** https://github.com/gaurav9479
+- **About:** I am gaurav B.Tech Materials Engineering MNNIT Allahabad i am trying to learn open source contribuion in OPENCODE-25
+
