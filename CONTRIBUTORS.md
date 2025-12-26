@@ -61,15 +61,6 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
-- **Name:** Raihanullah Shamsi 
-- **GitHub:** https://github.com/Rehan959  
-- **About:** Second-year BCA (AI & ML) student skilled in the full-stack (React, Next.js, Express). Eager to apply this knowledge to real-world projects
-
-- **Name:** Ishan Raj Singh
-- **GitHub:** https://github.com/ishanrajsingh
-- **About:** Passionate tech enthusiast , solving complex algorithmic problems. Skilled in writing clean, efficient code, and always learning the latest tools and best practices.
-
-- **Name:** Omdeep Masram
-- **GitHub:** https://github.com/omicoded19
-- **About:** Sophomore at IIITA. Want to learn to contribute. Cheers !
-
+- **Name:** Satwik Santosh
+- **GitHub:** https://github.com/DeadlySatwik
+- **About:** Sophomore at IIIT Allahabad (IIT2024084). Passionate about Cybersecurity, ML, and Full Stack Development, Competitive Programming."
